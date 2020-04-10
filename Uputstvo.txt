@@ -1,3 +1,4 @@
 Test za cetvrtake!
 Detaljnije uputstvo!
 Ovo je linija u Grani1
+Ovo je linija iz remote servera!
